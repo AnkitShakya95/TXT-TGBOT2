@@ -5,7 +5,7 @@ services:
     env: docker
     dockerfilePath: Dockerfile
     repo: https://github.com/AnkitShakya95/TXT-TGBOT2
-    branch: main
+    branch: main.py
     autoDeploy: false
     envVars:
       - key: BOT_TOKEN

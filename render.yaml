@@ -1,10 +1,10 @@
 services:
   - type: web
-    name: Ankit Shakya Txt Bot
+    name: Ankit Shakya Txt Bot2
     plan: free
     env: docker
     dockerfilePath: Dockerfile
-    repo: https://github.com/AnkitShakya95/DRM-Bot-2.git
+    repo: https://github.com/AnkitShakya95/TXT-TGBOT2
     branch: main
     autoDeploy: false
     envVars:
